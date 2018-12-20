@@ -1,0 +1,6 @@
+framework module StarPodDemo {
+  umbrella header "StarPodDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
