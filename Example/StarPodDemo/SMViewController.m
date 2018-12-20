@@ -7,6 +7,7 @@
 //
 
 #import "SMViewController.h"
+#import <StarPodDemo/StarView.h>
 
 @interface SMViewController ()
 
@@ -18,7 +19,12 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-
+    StarView *starView = [StarView new];
+    starView.frame = CGRectMake(0, 0, 200, 200);
+    starView.backgroundColor = [UIColor redColor];
+    starView.title = @"显示文字";
+    [self.view addSubview:starView];
+    starView.center = self.view.center;
 
 }
 
