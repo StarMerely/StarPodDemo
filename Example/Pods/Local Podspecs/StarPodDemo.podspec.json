@@ -1,18 +1,18 @@
 {
   "name": "StarPodDemo",
   "version": "0.1.0",
-  "summary": "A short description of StarPodDemo.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/赵金星/StarPodDemo",
+  "summary": "个人测试库",
+  "description": "个人测试库",
+  "homepage": "https://github.com/StarMerely/StarPodDemo",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "赵金星": "zhaojinxing@zuoyebang.com"
+    "star": "zhaojinxing@me.com"
   },
   "source": {
-    "git": "https://github.com/赵金星/StarPodDemo.git",
+    "git": "https://github.com/StarMerely/StarPodDemo.git",
     "tag": "0.1.0"
   },
   "platforms": {

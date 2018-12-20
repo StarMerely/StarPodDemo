@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "StarView.h"
 
 FOUNDATION_EXPORT double StarPodDemoVersionNumber;
 FOUNDATION_EXPORT const unsigned char StarPodDemoVersionString[];
