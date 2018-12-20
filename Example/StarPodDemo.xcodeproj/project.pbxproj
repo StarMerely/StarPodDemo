@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		07BFF7DF6CE982B09DCBF8C0 /* Pods_StarPodDemo_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_StarPodDemo_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		403BBE44F658261E5303BAB4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		403BBE44F658261E5303BAB4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* StarPodDemo_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StarPodDemo_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -58,11 +58,11 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		654C4D7C7EA7A4C9D8B69CBD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		654C4D7C7EA7A4C9D8B69CBD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		871C4486C6CBCCF957AB8F80 /* Pods-StarPodDemo_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StarPodDemo_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-StarPodDemo_Example/Pods-StarPodDemo_Example.release.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		893F3D5A90335FD4AF4842F5 /* StarPodDemo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = StarPodDemo.podspec; path = ../StarPodDemo.podspec; sourceTree = "<group>"; };
+		893F3D5A90335FD4AF4842F5 /* StarPodDemo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = StarPodDemo.podspec; path = ../StarPodDemo.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		8C16B57DFD91F3989E62BAE0 /* Pods-StarPodDemo_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StarPodDemo_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-StarPodDemo_Tests/Pods-StarPodDemo_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		8EFA24A2A59D3143F7F07B41 /* Pods-StarPodDemo_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-StarPodDemo_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-StarPodDemo_Example/Pods-StarPodDemo_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		F4E8F8E7BCDFD863A203B8A8 /* Pods_StarPodDemo_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_StarPodDemo_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
