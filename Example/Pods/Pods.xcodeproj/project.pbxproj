@@ -16,6 +16,8 @@
 		D4F78C37B8150A9BE846C20D3901537E /* Pods-StarPodDemo_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AC14C285CEDEB589E7562F76CD712B01 /* Pods-StarPodDemo_Example-dummy.m */; };
 		E0995C52A35A1998F6C1A690F7D27FF0 /* StarPodDemo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7CDB2FACD9A869FBB5E490AEF24B249F /* StarPodDemo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F4D4C9CCB7F535075C4FFFBD9DDCDC18 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */; };
+		F8E008B721CB79A200CBE4A0 /* StarView.h in Headers */ = {isa = PBXBuildFile; fileRef = F8E008B521CB79A200CBE4A0 /* StarView.h */; };
+		F8E008B821CB79A200CBE4A0 /* StarView.m in Sources */ = {isa = PBXBuildFile; fileRef = F8E008B621CB79A200CBE4A0 /* StarView.m */; };
 		FD38895E65BBC02F498F2BA96D093ACC /* Pods-StarPodDemo_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3446F69BBB746956770A3642B92605C5 /* Pods-StarPodDemo_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -72,6 +74,8 @@
 		DE59D80DA26D235C24F7D8821323B0E6 /* Pods-StarPodDemo_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-StarPodDemo_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		E169AF4993F9D2BFBBBE0CFA6FF5D073 /* Pods_StarPodDemo_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_StarPodDemo_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDC8828E769D5417BD56F03D336275A3 /* StarPodDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = StarPodDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F8E008B521CB79A200CBE4A0 /* StarView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StarView.h; sourceTree = "<group>"; };
+		F8E008B621CB79A200CBE4A0 /* StarView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StarView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -208,6 +212,8 @@
 				78AD1E166C2094514C35EEDEE970C397 /* ReplaceMe.m */,
 				899BBCDDFAACEB32FA66463804E48058 /* Pod */,
 				F549AFD0509AA4BC36586B695401ED5E /* Support Files */,
+				F8E008B521CB79A200CBE4A0 /* StarView.h */,
+				F8E008B621CB79A200CBE4A0 /* StarView.m */,
 			);
 			name = StarPodDemo;
 			path = ../..;
@@ -243,6 +249,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0F3C8F004C6F50B643D8B079D8D818B0 /* Pods-StarPodDemo_Example-umbrella.h in Headers */,
+				F8E008B721CB79A200CBE4A0 /* StarView.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -387,6 +394,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8E008B821CB79A200CBE4A0 /* StarView.m in Sources */,
 				D4F78C37B8150A9BE846C20D3901537E /* Pods-StarPodDemo_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
