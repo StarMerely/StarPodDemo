@@ -22,7 +22,7 @@ pod 'StarPodDemo'
 
 ## Author
 
-赵金星, zhaojinxing@zuoyebang.com
+star, zhaojinxing@me.com
 
 ## License
 
