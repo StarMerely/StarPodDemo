@@ -14,7 +14,6 @@
 		A325F2929615B521EAA618D8428C8AC8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */; };
 		ABEB9C76E29F7CE7820BE90B94041F65 /* Pods-StarPodDemo_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A383E50C9C59BF653F8AE701C58A273 /* Pods-StarPodDemo_Tests-dummy.m */; };
 		B59A44A814843A069258EA4636C8D9EE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */; };
-		BF23490C0107C302EF4C907FD7CDE366 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = EA23F45EBC59B51AE0C40446ACDF0CF5 /* ReplaceMe.m */; };
 		C496003A3F90718C8115D012571DB825 /* StarPodDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = EBBEBF44F187C9270AFC1B2C63121149 /* StarPodDemo-dummy.m */; };
 		D4F78C37B8150A9BE846C20D3901537E /* Pods-StarPodDemo_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AC14C285CEDEB589E7562F76CD712B01 /* Pods-StarPodDemo_Example-dummy.m */; };
 		F4D4C9CCB7F535075C4FFFBD9DDCDC18 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */; };
@@ -72,7 +71,6 @@
 		DAE77297FD9B942DEE295ABE7ADB7A1A /* StarPodDemo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "StarPodDemo-umbrella.h"; sourceTree = "<group>"; };
 		DE59D80DA26D235C24F7D8821323B0E6 /* Pods-StarPodDemo_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-StarPodDemo_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		E169AF4993F9D2BFBBBE0CFA6FF5D073 /* Pods_StarPodDemo_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_StarPodDemo_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		EA23F45EBC59B51AE0C40446ACDF0CF5 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = StarPodDemo/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		EBBEBF44F187C9270AFC1B2C63121149 /* StarPodDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "StarPodDemo-dummy.m"; sourceTree = "<group>"; };
 		EDC8828E769D5417BD56F03D336275A3 /* StarPodDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = StarPodDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5C83C46C1A75095E69670BB995787A1 /* StarPodDemo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = StarPodDemo.modulemap; sourceTree = "<group>"; };
@@ -225,7 +223,6 @@
 		C076BD222D01FD429355BFC8FCCC4A4E /* StarPodDemo */ = {
 			isa = PBXGroup;
 			children = (
-				EA23F45EBC59B51AE0C40446ACDF0CF5 /* ReplaceMe.m */,
 				768E3676E821CF53AE99CE8A31D61EB1 /* Pod */,
 				305BF1530EC01F0C6DF1721B1B981E52 /* Support Files */,
 			);
@@ -385,7 +382,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BF23490C0107C302EF4C907FD7CDE366 /* ReplaceMe.m in Sources */,
 				C496003A3F90718C8115D012571DB825 /* StarPodDemo-dummy.m in Sources */,
 				0B52182FC69E3110080308655D6943A9 /* StarView.m in Sources */,
 			);
